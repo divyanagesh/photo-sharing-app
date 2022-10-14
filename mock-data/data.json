@@ -1,0 +1,31 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://s3-eu-west-1.amazonaws.com/tpd/logos/609b9ed668aa2a0001e00c6e/0x0.png",
+            "insta": "https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814047_1280.png",
+            
+            "date": "12/02/2022"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://th.bing.com/th/id/OIP.phaxqcpWTpckDVqQ9_1nKwHaE8?pid=ImgDet&rs=1",
+            "insta": "https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814047_1280.png",
+            "date": "15/05/2022"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://th.bing.com/th/id/OIP.M211C1GaN0xuYqeRntvW4gHaE9?pid=ImgDet&rs=1",
+            "insta": "https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814047_1280.png",
+            "date": "10/06/2022"
+            }
+            ]
+
+        }

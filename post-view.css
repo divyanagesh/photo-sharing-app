@@ -1,0 +1,29 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.p{
+    margin-bottom: 0px;
+    float: right;
+}
+.post{
+    border: 1px solid black;
+    width: 400px;
+    margin-left: 420px;
+    margin-bottom: 10px;
+
+}
+
+.userinformation h3{
+    margin-bottom: 0px;
+}
+.user-image img{
+    width: 400px;
+    height: 10rem;
+}
+.user-meta{
+    float: right;
+}
+.user-description{
+    font-weight: bold;
+}
